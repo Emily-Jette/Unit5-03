@@ -1,0 +1,22 @@
+#main-page {
+  background-color: cornflowerblue;
+}
+
+.text {
+  color: darkolivegreen;
+  text-align: center;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  width: 50%;
+  border: 10px groove bisque;
+  padding: 3px;
+}
+
+#button {
+  border: 3px solid burlywood;
+  color: cadetblue;
+}
+
+#button2 {
+  border: 3px solid burlywood;
+  color: cadetblue;
+}
